@@ -1,0 +1,70 @@
+body
+{
+    background-color : #011F3F;
+}
+
+header
+{
+    /* margin : 30px auto 30px auto; */
+    margin-top : 5%;
+    margin-bottom : 70px;
+}
+
+.row
+{
+    /* border : 1px solid white; */
+    padding : 0;
+    width : 60%;
+    margin-top : 4%;
+    margin-left : auto;
+    margin-right : auto;
+    text-align: center;
+}
+
+.box
+{
+    display : inline-block;
+    width : 250px;
+    height : 250px;
+    border-radius : 51px;
+    border :11px solid black;
+}
+
+.green, .yellow
+{
+    margin-right: 30px;
+}
+
+.red, .blue
+{
+    margin-left : 30px;
+}
+
+.red
+{
+    background-color : red;
+}
+
+.green
+{
+    background-color : green;
+}
+
+.yellow
+{
+    background-color : yellow;
+}
+
+.blue
+{
+    background-color : blue;
+}
+
+h1
+{
+    text-align : center;
+    font-family : 'Press Start 2P', cursive;
+    color : #FEF2BF;
+    font-size : 3rem;
+}
+
